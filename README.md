@@ -3,12 +3,6 @@
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:667EEA,764BA2&height=65&section=header&text=&animation=twinkling&fontSize=42" alt="Header" />
-</div>
-
----
-
-<div align="center">
 
 
 </div>
